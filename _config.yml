@@ -1,2 +1,3 @@
-baseurl: /PortfolioSite
+markdown: redcarpet
+baseurl: /AvengerPortfolio
 permalink: pretty

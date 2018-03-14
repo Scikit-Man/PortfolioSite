@@ -1,0 +1,75 @@
+title: Avenger
+subtitle: LAN Gaming / Counter Strike / Age of Empires / Traveler / Gamer
+full_name: AvengerByChoice
+phone:
+email:
+website:
+address:
+about_me_title:
+about_me_desc:
+twitter:
+facebook:
+linkedin:
+github:
+work_experience:
+          - job_title: Team Captain
+            company_name: Direwolves
+            job_desc: Rushing everywhere and flashing and smoking the key entrances into bombsite. Desert eagle is my speciality and it saves balances the team economyy. Always ready to take a bullet for the team.
+          - job_title: Resource Sharer
+            company_name: Silent Ninjas
+            job_desc: Just keep on collecting resources, Share the resources with the team mates and help them build the attack in a constant way. Growing and sharing for the resources. 
+education:
+          - education_title: Dedicated Hardcore Gamer
+            education_institute: International Gaming School.
+            education_bio: Learnt the use of high end gaming devices which makes it easier to manage during LAN Play
+testimonial:
+          - name: SK_DeathEater	
+            img: https://www.google.ie/search?q=sk+gaming+cs+go&rlz=1C1CHBF_enIN759IN759&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjFgNXilezZAhWnAcAKHb1pBmsQ_AUICigB&biw=1366&bih=637#imgrc=UbY28Bg-cXMPCM
+            desc: SK Gaming team captain, Recommended and asked me to be a member of his team.
+          - name: Frankestines
+            desc: A very reourceful erson, has ability to collect and share resources on a large scale. Sharing resouces helps in bulding the civilisation and attack becomes much easier with abundance of food and gold. Really a must needed person in the team.
+            img: https://www.google.ie/search?rlz=1C1CHBF_enIN759IN759&biw=1366&bih=637&tbm=isch&sa=1&ei=OUWpWuz9Fov3gQbzypTADQ&q=frankenstein&oq=frankes&gs_l=psy-ab.3.1.0j0i10k1j0j0i10k1l7.39209.40720.0.43056.7.7.0.0.0.0.84.409.7.7.0....0...1c.1.64.psy-ab..0.7.408...0i67k1.0.Fj7sdPsxFnQ#imgrc=H7wGHAmMHS8MAM
+          - name: Geeky_Freaks
+            desc: A gutsy fellow, keeps on rushing and keeps pressure on the opponent team. Some unexpected moves and really unpredictable with his gaming skills.
+            img: https://www.google.ie/search?q=geeky&rlz=1C1CHBF_enIN759IN759&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi994mOluzZAhVGCMAKHf2bCZIQ_AUICigB&biw=1366&bih=637#imgrc=a92BMjj0w7YQrM
+skill:
+    - name: Leader 
+      percent: 90 
+    - name: Resource Mmanager
+      percent: 86 
+    - name: Dedication towards task
+      percent: 70 
+    - name: Risk Analyst
+      percent: 80
+skill_progress:
+    - name: Leader 
+      percent: 90 
+    - name: Resource Mmanager
+      percent: 86 
+    - name: Dedication towards task
+      percent: 70 
+    - name: Risk Analyst
+      percent: 80
+    - name: Gaming Enthusiast
+      percent: 80
+work_display:
+    - name: Direwolves CS 
+      desc: Captain of the LAN gaming team and arranged inter college gaming events 
+      img: https://www.google.ie/search?rlz=1C1CHBF_enIN759IN759&biw=1366&bih=637&tbm=isch&sa=1&ei=QEapWu76GobFgAaE16-oDw&q=i2it+dhruva+cs&oq=i2it+dhruva+cs&gs_l=psy-ab.3...2376.7016.0.7154.14.14.0.0.0.0.96.797.14.14.0....0...1c.1.64.psy-ab..0.5.293...0j0i24k1.0.N9PkS-RjloI#imgrc=gTg4gFaLXqewlM
+    - name: Silent Assasins
+      desc: Resource manager and worked for 2 years managing the team resources
+      img: https://www.google.ie/search?rlz=1C1CHBF_enIN759IN759&biw=1366&bih=637&tbm=isch&sa=1&ei=QEapWu76GobFgAaE16-oDw&q=i2it+dhruva+cs&oq=i2it+dhruva+cs&gs_l=psy-ab.3...2376.7016.0.7154.14.14.0.0.0.0.96.797.14.14.0....0...1c.1.64.psy-ab..0.5.293...0j0i24k1.0.N9PkS-RjloI#imgrc=fgO8udMwDK4cJM
+hire_me_message: Looking for dedication here  I'm
+hire_me_description: Can sit for long hours and work on a given task until its completed
+blog_desc: Won few local inter college LAN gaming events and managed 4 events which were a huge success among the colleges in locality
+blog:
+    - date: 3/02/2013
+      title: Winner of CS Dhruva Tech fest 
+      desc: A decider in the end and a nail biting finish. The score was tied up 14-14 and race to 15 was the target. A silly mistake by opponent which resulted in a great victory for the Direwolves team. The player rushed in all alone!!! Not a good choice.
+    - date: 4/02/2014
+      title: Runner up Inter university Championship
+      desc: AOE 4 v 4 runner up from the all university championships. A small error which gave the advantage to our competitors. We rectified the errors in the furter games.
+    - date: 7/04/2014
+      title: 5th place in CS
+      desc: An amazing tournament and with recent changes in team members, Glad we managed 5 spot.
+img: bugs-bunny.png 

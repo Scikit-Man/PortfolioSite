@@ -1,0 +1,84 @@
+title: Panda
+subtitle: Entertainer/Sleeping legend / The Cuttest
+full_name:
+phone:
+email:
+website:
+address:
+about_me_title:
+about_me_desc:
+twitter:
+facebook:
+linkedin:
+github:
+work_experience:
+          - job_title: Dargon Warrior 
+            company_name: China Warriors
+            job_desc: Leading a team of Kunf Fu Fighters
+          - job_title: Waiter 
+            company_name: China Food Stall
+            job_desc: Taking order for customers, kitchen porter
+education:
+          - education_title: MSc in Eating Management 
+            education_institute: National University China, China.
+            education_bio: Studied about different type sleeping pattern, Different types of Bamboo
+          - education_title: Bachelor Degree
+            education_institute: National University of Hong Kong, HongKong.
+            education_bio: Kung fu , Meditation 
+testimonial:
+          - name: Master Shifu
+            img:
+            desc: He is one of my favroite Student.
+          - name: Oogway
+            desc: He is my Dragon Warrior. He is funny too
+            img: 
+          - name: Tigress
+            desc: He is one of the  best person to work with. His fight against Tai Lung was amazing. 
+            img:
+skill:
+    - name: Sleeping
+      percent: 85
+    - name: Eating
+      percent: 100
+    - name: Talking
+      percent: 90
+    - name: Fighting
+      percent: 100
+skill_progress:
+    - name: Kung Fu
+      percent:
+    - name: Boxing
+      percent:
+    - name: Karate
+      percent:
+    - name: Yoga
+      percent:
+    - name: Flirting
+      percent:
+work_display:
+    - name: Fighting With Tai Lung
+      desc:
+      img:
+    - name: Fighting with Commander Virchi
+      desc:
+      img:
+    - name: xx
+      desc:
+      img:
+    - name: xx
+      desc:
+      img:
+hire_me_message:
+hire_me_description:
+blog_desc:
+blog:
+    - date:
+      title:
+      desc:
+    - date:
+      title:
+      desc:
+    - date:
+      title:
+      desc:
+img: bugs-bunny.png 

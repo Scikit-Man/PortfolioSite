@@ -1,0 +1,84 @@
+title: Panda
+subtitle: Entrepreneur / Business Analyst / Developer / Batminton
+full_name:
+phone:
+email:
+website:
+address:
+about_me_title:
+about_me_desc:
+twitter:
+facebook:
+linkedin:
+github:
+work_experience:
+          - job_title: Senior Analyst
+            company_name: Capgemini
+            job_desc: Analyise current infrasturcture and suggest improvements so that business is able to handle the future demands
+          - job_title: Web Developer
+            company_name: StartUp Inc
+            job_desc: Development of UI for the Company
+education:
+          - education_title: MSc in Information Systems Management
+            education_institute: National University of Ireland, Galway.
+            education_bio:
+          - education_title: Bachelor Degree
+            education_institute: National University of Ireland, Galway.
+            education_bio:
+testimonial:
+          - name:
+            img:
+            desc:
+          - name:
+            desc:
+            img:
+          - name:
+            desc:
+            img:
+skill:
+    - name:
+      percent:
+    - name:
+      percent:
+    - name:
+      percent:
+    - name:
+      percent:
+skill_progress:
+    - name:
+      percent:
+    - name:
+      percent:
+    - name:
+      percent:
+    - name:
+      percent:
+    - name:
+      percent:
+work_display:
+    - name:
+      desc:
+      img:
+    - name:
+      desc:
+      img:
+    - name:
+      desc:
+      img:
+    - name:
+      desc:
+      img:
+hire_me_message:
+hire_me_description:
+blog_desc:
+blog:
+    - date:
+      title:
+      desc:
+    - date:
+      title:
+      desc:
+    - date:
+      title:
+      desc:
+img: bugs-bunny.png 
